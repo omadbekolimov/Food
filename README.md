@@ -12,6 +12,8 @@ Umid Uchqunlari uchun project
 <h1>Started project 18 - aprel </h1> <br>
 <h1>Finished project 22 - aprel </h1>
 
+<h1><strong>Hamma tezroq projectni tugatsin vaqtida topshirishilar kerak vaqtidan o'tib ketsa hech kim topshirmadi deb belgilayman</strong></h1>
+
 
 <h1>Landing pageni boshladim bootstrap yuklandi qande ulashlik yuli landing.htmlda bor</h1> <br>
 
