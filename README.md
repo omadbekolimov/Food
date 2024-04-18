@@ -13,3 +13,7 @@ Umid Uchqunlari uchun project
 <h1>Finished project 22 - aprel </h1>
 
 
+<h1>Landing pageni boshladim bootstrap yuklandi qande ulashlik yuli landing.htmlda bor</h1> <br>
+
+
+
