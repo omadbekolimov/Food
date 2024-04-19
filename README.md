@@ -20,4 +20,7 @@ Umid Uchqunlari uchun project
 
 <h2>Navbar qismi tayyor, fayllaringizni hrefga ulab ishlatishingiz mumkin</h2>
 <h2>css fayl ochdim home page qilinyapti</h2>
+<h1>Navbarga href ulab quydim hammasi zo'r projectni tezlashtirib tugatilar </h1>
+
+<h1>Umumiy css ochib quydim shunga navbarga tegishli bo'lgan css yozdim o'zgartirish kerak bo'lsa shu yerdan o'zgartiriladi</h1>
 
