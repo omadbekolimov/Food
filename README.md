@@ -20,4 +20,6 @@ Umid Uchqunlari uchun project
 
 <h1>Navbarga href ulab quydim hammasi zo'r projectni tezlashtirib tugatilar </h1>
 
+<h1>Umumiy css ochib quydim shunga navbarga tegishli bo'lgan css yozdim o'zgartirish kerak bo'lsa shu yerdan o'zgartiriladi</h1>
+
 

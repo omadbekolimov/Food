@@ -1,0 +1,11 @@
+.nav-hover {
+    transition: all .3s;
+    
+    &:hover{
+      color: aqua !important;
+    }
+  }
+
+  .active {
+    color: aqua !important;
+  }
