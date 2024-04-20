@@ -1,6 +1,23 @@
+
+
 .bg1{
     background-color: #99E54D;
 }
 .body{
     background-color: #1A1A1A;
+}
+.bg-img{
+    width: 100%;
+    height: 900px;   
+    background-image: url('./images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.font{
+    font-size:20rem;
+}
+
+.mar{
+    margin-top: 30%;
+    
 }
