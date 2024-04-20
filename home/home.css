@@ -14,10 +14,12 @@
     background-size: cover;
 }
 .font{
-    font-size:20rem;
+    font-size:60px !important;
 }
 
 .mar{
-    margin-top: 30%;
-    
+    margin-top: 30%;  
+}
+.round{
+    border-radius: 50% !important;
 }
