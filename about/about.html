@@ -1,13 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="../bootstrap/bootstrap-5.0.2-dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="../styles/main.css">
+    <style>
+
+        body {
+            background-color: #F9F6EE;
+        }
+
+        .about-us {
+            background-color: white;
+            border-radius: 30px;
+            padding: 3rem;
+        }
+
+        .steak {
+            border-radius: 30px;
+        }
+    </style>
 </head>
+
 <body>
+
+ 
+
      <!-- Navbar starting -->
     <div class="container-fluid"> 
          <ul class="nav justify-content-center p-4 fs-5 fw-light">
@@ -15,7 +36,7 @@
               <a class="nav-link text-dark nav-hover" aria-current="page" href="../home/home.html">HOME</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link  text-dark nav-hover" href="../landing/landing.html">LANDING</a>
+              <a class="nav-link  text-dark nav-hover" href="../landing/landing.html">LANDING</a> 
             </li>
             <li class="nav-item">
               <a class="nav-link text-dark active  nav-hover" href="../about/about.html">ABOUT</a>
@@ -34,8 +55,19 @@
         <h1>Start project pages</h1>
         <h2>Hello</h2>
     </div>
-    
+         <div class="container mt-3 about-us">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12">
+                    <img class="steak" width="600px" height="400px" src="../about/img/steak.jpg" alt="">
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <h4><b>OUR MISSION</b></h4>
+                </div>
+            </div>
+        </div>
 
-    <script src="../bootstrap/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js"></script>
-</body>
+
+        <script src="../bootstrap/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js"></script>
+    </body>
+
 </html>
