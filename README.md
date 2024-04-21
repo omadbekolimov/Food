@@ -12,10 +12,13 @@ Umid Uchqunlari uchun project
 <h1>Started project 18 - aprel </h1> <br>
 <h1>Finished project 22 - aprel </h1>
 
+<h1><strong>Hamma tezroq projectni tugatsin vaqtida topshirishilar kerak vaqtidan o'tib ketsa hech kim topshirmadi deb belgilayman</strong></h1>
+
 
 <h1>Landing pageni boshladim bootstrap yuklandi qande ulashlik yuli landing.htmlda bor</h1> <br>
-<h1>About qismini boshladim</h1>
+<h2>Navbar qismi tayyor, fayllaringizni hrefga ulab ishlatishingiz mumkin</h2>
+<h2>css fayl ochdim home page qilinyapti</h2>
+<h1>Navbarga href ulab quydim hammasi zo'r projectni tezlashtirib tugatilar </h1>
 
-
-
+<h1>Umumiy css ochib quydim shunga navbarga tegishli bo'lgan css yozdim o'zgartirish kerak bo'lsa shu yerdan o'zgartiriladi</h1>
 
