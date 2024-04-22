@@ -1,0 +1,12 @@
+.nav-hover {
+    transition: all .3s;
+    
+    
+    &:hover{
+      color: rgb(223, 188, 99) !important;
+    }
+  }
+
+  .active {
+    color: rgb(223, 188, 99) !important;
+  }
