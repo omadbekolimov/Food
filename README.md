@@ -17,6 +17,7 @@ Umid Uchqunlari uchun project
 
 <h1>Landing pageni boshladim bootstrap yuklandi qande ulashlik yuli landing.htmlda bor</h1> <br>
 <h2>Navbar qismi tayyor, fayllaringizni hrefga ulab ishlatishingiz mumkin</h2>
+<h1 class="text-danger">Home qismi tugadi</h1>
 <h2>css fayl ochdim home page qilinyapti</h2>
 <h1>Navbarga href ulab quydim hammasi zo'r projectni tezlashtirib tugatilar </h1>
 
