@@ -16,4 +16,7 @@ Umid Uchqunlari uchun project
 <h1>Landing pageni boshladim bootstrap yuklandi qande ulashlik yuli landing.htmlda bor</h1> <br>
 
 
+<h1>sizga bordimi</h1>
+
+
 
