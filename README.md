@@ -32,3 +32,6 @@ Umid Uchqunlari uchun project
 <h1>Bolar men silarga ishonaman uyaltirib quymelar</h1>
 
 
+<h1>tashladim ustoz</h1>
+
+
