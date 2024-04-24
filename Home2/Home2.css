@@ -5,3 +5,6 @@
 .before1::before{
     content: url('./images/phone-call.png');
 }
+.rounded3{
+    border-radius: 10vb;
+}
