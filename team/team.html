@@ -6,13 +6,31 @@
     <title>Document</title>
     <link rel="stylesheet" href="../bootstrap/bootstrap-5.0.2-dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="../styles/main.css">
+    <style>
+      body {
+            background-color: #F9F6EE;
+        }
+       .team{
+            background-color: white;
+            border-radius: 30px;
+            padding: 3rem;
+        }
+        .team_IMg{
+          border-radius: 10%
+        }
+        .team_img{
+          width: 75%;
+          margin-left: 10%;
+          
+        }
+    </style>
 </head>
 <body>
     <!-- Navbar starting -->
     <div class="container-fluid">
          <ul class="nav justify-content-center p-4 fs-5 fw-light">
             <li class="nav-item">
-              <a class="nav-link text-dark nav-hover" aria-current="page" href="../home/home.html">HOME</a>
+              <a class="nav-link text-dark nav-hover" aria-current="page" href="../Home2/Home2.html">HOME</a>
             </li>
             <li class="nav-item">
               <a class="nav-link  text-dark nav-hover" href="../landing/landing.html">LANDING</a>
@@ -30,9 +48,46 @@
                 <a class="nav-link text-dark nav-hover" href="../contact/contact.html">CONTACT</a>
               </li>
           </ul>
-        <!-- Navbar ending -->
-        <h1>Start project pages</h1>
+        <!-- Navbar ending -->  
     </div>
+    <!-- Chefs start -->
+    <div class="container mt-3 team">
+      <div class="row">
+          <div class="col-lg-5 col-md-6 col-sm-12">
+              <h4 class="p-2">OUR MISSION</h4>
+              <h1 class="p-2"><b>Chef's team</b></h1>
+             
+              <h5 class="p-2">
+                  Article evident arrived express highest men did boy. Mistress sensible entirely am so. Quick can manor smart money hopes worth too. Comfort produce husband boy her had hearing. Law others theirs passed but wishes. You day real less till dear read. Considered use dispatched melancholy sympathize discretion led. Oh feel if up to till like.
+              </h5>
+              <h4 class="p-2"><b>Image from</b><span class="text-hover"><a href="https://freepik.com/" style="color: orange;">Freepik</a></span></h5>
+              <button class="btn btn-warning btn-hover p-3 mt-3" style="border-radius: 30px; width: 180px;"><a class="read-me" href="https://nicepage.com/c/text-on-image-html-templates">READ ME</a></button>
+          </div>
+          <div class="col-lg-7 col-md-6 col-sm-12">
+              <div class="card img-fluid" style="border: none;">
+                <img class="team_IMg" src="./team_img/boshoshpaz.png" alt=""></div> 
+          </div>
+       </div>
+    </div>
+    <!-- Chefs end -->
+
+    <!-- Team card start  -->
+    <div class=" container mt-5 mb-5">
+      <div class="row justify-content-center ">
+        <div class="col-6">
+          <div class="card border-light team_IMg p-3 py-4 ">
+            
+            <img src="./team_img/team1.png" class="team_IMg team_img" alt="...">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Team card end -->
+
     
 
     <script src="../bootstrap/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js"></script>
