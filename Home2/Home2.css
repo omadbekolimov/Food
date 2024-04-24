@@ -19,3 +19,12 @@
 .font{
     font-size: 1em;
 }
+.rounded1{
+    border-radius: 100%;
+    width: 180px;
+    height: 180px;
+    
+}
+.h1-1{
+    font-size: 4em;
+}
