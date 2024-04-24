@@ -11,7 +11,15 @@ body{
     background-color: #99E54D;
 }
 .rounded1{
-    border-radius: 40vb;
+    border-radius: 100%;
+    width: 180px;
+    height: 180px;
+    
+}
+.rounded3{
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
 }
 .font{
     font-size: 1em;
