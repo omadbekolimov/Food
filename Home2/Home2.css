@@ -8,3 +8,23 @@
 .rounded3{
     border-radius: 10vb;
 }
+.bg3{
+    background-color:rgb(249, 239, 229);
+    border-radius: 5vb;
+    height: 50vh;
+}
+.bg4{
+    background-color: #99E54D;
+}
+.font{
+    font-size: 1em;
+}
+.rounded1{
+    border-radius: 100%;
+    width: 180px;
+    height: 180px;
+    
+}
+.h1-1{
+    font-size: 4em;
+}
