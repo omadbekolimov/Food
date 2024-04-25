@@ -1,5 +1,3 @@
-
-
 .bg1{
     background-color: #99E54D;
 }
@@ -28,12 +26,15 @@
 .font{
     font-size:60px !important;
 }
+.font2{
+    font-size: 25px;
+}
 
 .mar{
     margin-top: 30%;  
 }
 .rounded1{
-    border-radius: 40%;
+    border-radius: 40vb;
 }
 .round{
     border-radius: 50% !important;
