@@ -1,9 +1,15 @@
+.bg-img{
+    background-image: url('../home/images/bg.jpg');
+}
 .bg1{
     background-color: #99E54D ;
     border-radius: 50vb;
 }
 .before1::before{
     content: url('./images/phone-call.png');
+}
+.roundeds{
+    border-radius: 20px;
 }
 .rounded3{
     border-radius: 10vb;
