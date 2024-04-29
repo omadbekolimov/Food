@@ -35,9 +35,13 @@
 }
 .rounded1{
     border-radius: 100%;
-    width: 180px;
-    height: 180px;
+    width: 220px;
+    height: 220px;
     
+}
+.bg2{
+    border-radius: 100%;
+    background-color: #99E54D;
 }
 .round{
     border-radius: 50% !important;
