@@ -34,7 +34,10 @@
     margin-top: 30%;  
 }
 .rounded1{
-    border-radius: 40vb;
+    border-radius: 100%;
+    width: 180px;
+    height: 180px;
+    
 }
 .round{
     border-radius: 50% !important;
